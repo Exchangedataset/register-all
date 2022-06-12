@@ -1,0 +1,6 @@
+DATABASE_HOST = "exchangedataset-database.cqdpweplfhn7.us-east-2.rds.amazonaws.com"
+DATABASE_USER = "dump"
+DATABASE_PASSWORD = "???"
+DATABASE_NAME = "datase_info"
+SSL_CA = "rds-ca-2019-root.pem"
+S3_BUCKET = "exchangedataset-data"
